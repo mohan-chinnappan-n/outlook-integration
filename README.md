@@ -9,13 +9,11 @@
 - [Videos](#videos)
 
 
-
-
-
-
+## Design
 <a name='design'></a>
 - [Website for Outlook Integration Design](https://www.salesforce-email.com/)
 
+## Demo
 <a name='demo'></a>
 ## Design Sample Flow 
 ![Design sample flow](img/oi-1.gif) 
