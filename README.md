@@ -16,3 +16,7 @@
 - [Outlook Integration Implementation Guide](https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/sales_outlook_integration_impl_guide.pdf)
 - [Salesforce Email Integration Security Guide](https://resources.docs.salesforce.com/latest/latest/en-us/sfdc/pdf/sales_email_integration_security.pdf)
 
+## Videos and Slides
+- [Slides: Email Integration & Sync Critical Updates](https://trailblazers.salesforce.com/0694S000001Bad2)
+- [Video: Email Integration & Sync Critical Updates](https://salesforce.vidyard.com/watch/AkXrV7BRzc6s47hYgoDFmN)
+
