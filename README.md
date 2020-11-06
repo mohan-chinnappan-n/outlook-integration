@@ -22,7 +22,7 @@
 ## Sample Screenshot
 ![Sample Screenshot](img/s-oi-1.png)
 
-<a name='addin'</a>
+<a name='addin'></a>
 ## Salesforce Addin for Outlook
 - [Addin - Boost productivity by bringing the power of the Salesforce Platform to Outlook](https://appsource.microsoft.com/en-us/product/office/WA104379334?tab=Overview)
 
