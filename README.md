@@ -15,7 +15,7 @@
 
 ## Demo
 <a name='demo'></a>
-## Design Sample Flow 
+### Design Sample Flow 
 ![Design sample flow](img/oi-1.gif) 
 
 <a name='sample'></a>
