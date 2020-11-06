@@ -1,6 +1,6 @@
 # Outlook Integration 
 
-- [Website for Outlook Integration Design](https://www.salesforce-email.com/)
+- [Design Website for Outlook Integration](https://www.salesforce-email.com/)
 
 ## Design Sample Flow 
 ![Design sample flow](img/oi-1.gif) 
