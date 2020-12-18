@@ -11,4 +11,5 @@
 
 - [Salesforce for Outlook Retirement -  Knowledge Article](https://help.salesforce.com/articleView?id=000353024&language=en_US&mode=1&type=1)
 - [Learn About the Next-Generation Microsoft Integration Products](https://help.salesforce.com/articleView?id=outlookcrm_sfo_move_compare_intro.htm&type=5)
-
+- [Outlook integration](oi.html)
+- [Website for Outlook Integration Design](https://www.salesforce-email.com/)
