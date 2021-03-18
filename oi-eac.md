@@ -30,7 +30,7 @@
 
 
 ## Setup
-- [oi-eac-1](img/oi-eac-1.png)
+- ![oi-eac-1](img/oi-eac-1.png)
  
 ## References
 
